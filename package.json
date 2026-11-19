@@ -1,0 +1,8 @@
+{
+  "name": "bsit-1c-deadline-notifications",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scheduled Firebase Cloud Messaging deadline reminders for BSIT 1C TO DO LIST",
+  "scripts": { "start": "node reminder.js" },
+  "dependencies": { "firebase-admin": "^13.0.0" }
+}
